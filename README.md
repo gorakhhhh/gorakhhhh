@@ -1,15 +1,26 @@
- <div align="center">
 
-# Hi 👋, I'm Gorakhnath Sampat Malusare
+<div align="center">
+
+# 👋 Hi, I'm Gorakhnath Sampat Malusare
 
 ### ☁️ Cloud Engineer | DevOps Enthusiast | Linux Administrator
 
-**Building, Automating, and Learning Cloud Technologies**
+**Building • Automating • Learning • Improving**
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=gorakhhhh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/gorakhhhh?label=Followers&style=flat&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/gorakhhhh?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=gorakhhhh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p>
+  <a href="https://github.com/gorakhhhh?tab=followers">
+    <img src="https://img.shields.io/github/followers/gorakhhhh?label=FOLLOWERS&logo=github&style=for-the-badge" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/gorakhhhh?tab=repositories">
+    <img src="https://img.shields.io/github/stars/gorakhhhh?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL+STARS&logo=github&style=for-the-badge" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/gorakhhhh?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgorakhhhh&query=%24.public_repos&label=PUBLIC+REPOS&logo=github&style=for-the-badge" alt="Public repositories" />
+  </a>
 </p>
 
 </div>
@@ -19,13 +30,15 @@
 ## 👨‍💻 About Me
 
 - ☁️ Interested in **Cloud Computing, DevOps, and Infrastructure Automation**
-- 🔭 Currently working on [Ansible Projects](https://github.com/gorakhhhh/ANSIBLE-WITH-PROJECTS)
+- 🔭 Working on [Ansible Projects](https://github.com/gorakhhhh/ANSIBLE-WITH-PROJECTS)
 - 🌱 Currently learning **Docker, Terraform, Kubernetes, and Python**
-- 🐧 Practicing Linux administration, networking, and cloud infrastructure
+- 🐧 Practicing Linux administration, networking, and troubleshooting
 - 🤝 Open to collaborating on real-world Cloud and DevOps projects
-- 💬 Ask me about **AWS, Azure, Linux, Git, Ansible, and Cloud Infrastructure**
-- 📫 Reach me at **[gmalusare100@gmail.com](mailto:gmalusare100@gmail.com)**
+- 💬 Ask me about **AWS, Microsoft Azure, Linux, Git, and Ansible**
+- 📫 Email: [gmalusare100@gmail.com](mailto:gmalusare100@gmail.com)
 - 🌍 Location: India
+
+---
 
 ## 🤝 Connect With Me
 
@@ -51,12 +64,8 @@
 ### ☁️ Cloud Platforms
 
 <p>
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  </a>
-  <a href="https://azure.microsoft.com/">
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  </a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
 ### ⚙️ DevOps and Automation
@@ -78,13 +87,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Ansible Automation Projects
+### 🔧 Ansible Automation Projects
 
 **Technologies:** Ansible, Linux, YAML
 
@@ -92,13 +102,13 @@
 - Build reusable playbooks for system administration.
 - Automate repetitive infrastructure tasks.
 
-🔗 [View Ansible Projects](https://github.com/gorakhhhh/ANSIBLE-WITH-PROJECTS)
+🔗 **[Explore Ansible Projects](https://github.com/gorakhhhh/ANSIBLE-WITH-PROJECTS)**
 
-### 2. Cloud and DevOps Projects
+### ☁️ Cloud and DevOps Labs
 
-Explore my repositories for practical labs, experiments, and upcoming projects.
+Explore my repositories for cloud labs, Linux administration, automation, and DevOps practice.
 
-🔗 [Explore All My Repositories](https://github.com/gorakhhhh?tab=repositories)
+🔗 **[Explore All Repositories](https://github.com/gorakhhhh?tab=repositories)**
 
 ---
 
@@ -108,7 +118,7 @@ Explore my repositories for practical labs, experiments, and upcoming projects.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=gorakhhhh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorakhhhh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorakhhhh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
 </div>
 
@@ -124,6 +134,16 @@ Explore my repositories for practical labs, experiments, and upcoming projects.
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gorakhhhh&theme=tokyonight&no-frame=true&margin-w=8&column=4" alt="GitHub trophies" />
+
+</div>
+
+---
+
 ## 📈 Contribution Activity Graph
 
 <div align="center">
@@ -134,12 +154,15 @@ Explore my repositories for practical labs, experiments, and upcoming projects.
 
 ---
 
+## 📌 Let's Connect and Build Together
+
 <div align="center">
 
-### 🚀 Learn • Build • Automate • Improve
+**Learn • Build • Automate • Improve**
 
-**Thanks for visiting my profile!**
+If you find my projects useful, consider giving them a ⭐.
 
-⭐ Explore my repositories and connect with me.
+Thanks for visiting my profile!
 
 </div>
+
